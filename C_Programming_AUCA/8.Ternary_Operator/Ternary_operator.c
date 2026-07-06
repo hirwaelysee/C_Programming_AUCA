@@ -1,9 +1,11 @@
 /*
+
 Use ternary operator to solve the following problems:
 •Checking if a number is even or odd.
 •Determining the maximum of two numbers.
 •Categorizing a number as positive, negative, or zero.
 •Finding the grade based on marks.
+
 */
 #include<stdio.h>
 void even_odd(){
