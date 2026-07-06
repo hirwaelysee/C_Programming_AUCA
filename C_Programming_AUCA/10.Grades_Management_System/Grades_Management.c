@@ -9,7 +9,6 @@
     •	Display all students with their grades.
 
 */
-
 #include<stdio.h>
 int main(){
     int n;
