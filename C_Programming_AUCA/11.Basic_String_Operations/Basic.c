@@ -4,7 +4,6 @@
     •	Performing string operations like concatenation, comparison, and length calculation.
     •	Display for a specific string in the array.
     •	Displaying the strings in the array.
-
 */
 #include<stdio.h>
 #include<string.h>
