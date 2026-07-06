@@ -1,5 +1,5 @@
-/* create a Eligibility Checker program that uses logical operators to determine
-whether a person is eligible to vote or drive based on their age and certain conditions.
+/* create a Eligibility Checker program that uses logical operators to determine whether 
+a person is eligible to vote or drive based on their age and certain conditions.
 The program will check two conditions using logical operators like AND (&&), OR
 (||), and NOT (!), and then print appropriate messages based on these conditions.*/
 
