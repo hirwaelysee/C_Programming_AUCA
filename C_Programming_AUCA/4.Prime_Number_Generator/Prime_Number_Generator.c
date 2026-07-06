@@ -1,6 +1,6 @@
 /*create a Prime Number Generator program that uses a for loop to find and display all prime numbers
  within a specified range. The program will prompt the user to input a number, 
- and then it will display all the prime numbers from 1 to that number.
+ and then it will display all the prime numbers from 1 to that number
 */
 // Prime Number Generator
 #include<stdio.h>
